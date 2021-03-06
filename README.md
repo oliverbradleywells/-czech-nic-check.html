@@ -1,0 +1,1 @@
+# -czech-nic-check.html
